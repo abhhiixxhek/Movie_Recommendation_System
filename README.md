@@ -5,7 +5,8 @@ Typically, these systems consist of two primary components: users and items (mov
 
 Among the diverse filters available, one commonly adopted approach is Content-based Filtering. This method assesses the intrinsic qualities and characteristics of movies, such as genre, plot keywords, actors, directors, and more, to recommend films that align closely with the user's demonstrated preferences and interests. By focusing on the content attributes of movies and comparing them with the user's historical interactions, content-based filtering can offer personalized and relevant movie suggestions.
 
-![image](https://github.com/abhixxhek/Movie-Recommendation-System/assets/93929650/2713053a-a4d2-4e10-8b29-daf449c2657b)
+![image](https://github.com/abhhiixxhek/Movie_Recommendation_System/assets/93929650/17d2b645-7d1c-4b04-9073-ddf0e1c31767)
+
 
 # Working of the Model
 
